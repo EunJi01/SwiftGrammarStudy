@@ -7,7 +7,7 @@ Kxcoding Swift 문법 공부 : Mastering Swift
 | **2회** | Data Types | Complete |  |  | **2022.04.23** |
 | **3회** | Operators | Complete |  |  | **2022.04.24** |
 | **4회** | ConditionalStatements | Complete |  |  | **2022.04.25** |
-| **5회** |  | Complete |  |  | **2022.03.18** |
+| **5회** | Loops | Complete |  |  | **2022.04.26** |
 | **6회** |  | Complete |  |  | **2022.03.19** |
 | **7회** |  | Complete |  |  | **2022.03.20** |
 | **8회** |  | Complete |  |  | **2022.03.21** |
