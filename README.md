@@ -9,7 +9,7 @@ Kxcoding Swift 문법 공부 : Mastering Swift
 | **4회** | ConditionalStatements | Complete |  |  | **2022.04.25** |
 | **5회** | Loops | Complete |  |  | **2022.04.26** |
 | **6회** | controltransfer | Complete |  |  | **2022.04.27** |
-| **7회** |  | Complete |  |  | **2022.03.20** |
+| **7회** | Optionals | Complete |  |  | **2022.03.20** |
 | **8회** |  | Complete |  |  | **2022.03.21** |
 | **9회** |  | Complete |  |  | **2022.03.22** |
 | **10회** |  | Complete |  |  | **2022.03.23** |
