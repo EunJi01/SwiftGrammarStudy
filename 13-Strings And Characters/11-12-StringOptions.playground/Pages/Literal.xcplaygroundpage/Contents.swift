@@ -27,19 +27,12 @@ import Foundation
  # Literal Option
  */
 
+let a = "\u{D55C}"
+let b = "\u{1112}\u{1161}\u{11AB}"
 
+a == b
+a.compare(b) == .orderedSame
 
-
-
-
-
-
-
-
-
-
-
-
-
+a.compare(b, options: [.literal]) == .orderedSame
 
 //: [Next](@next)

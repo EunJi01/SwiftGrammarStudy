@@ -27,13 +27,18 @@ import UIKit
  # Numeric Option
  */
 
+"A" < "B"
+
+"a" < "B"
+
+let file9 = "file0.txt"
+let file10 = "file10.txt"
+
+file9 < file10
+
+file9.compare(file10) == .orderedSame
 
 
-
-
-
-
-
-
+file9.compare(file10, options: [.numeric]) == .orderedAscending
 
 //: [Next](@next)

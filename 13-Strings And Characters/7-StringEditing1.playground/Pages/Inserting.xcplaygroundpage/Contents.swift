@@ -27,11 +27,4 @@ import Foundation
  # Inserting Characters
  */
 
-var str = "Hello, Objective-C"
-
-str.replaceSubrange(<#T##bounds: Range<String.Index>##Range<String.Index>#>, with: <#T##Collection#>)
-
-
-
-
 

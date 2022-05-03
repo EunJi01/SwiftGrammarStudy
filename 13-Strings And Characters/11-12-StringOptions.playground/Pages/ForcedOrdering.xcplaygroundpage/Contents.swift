@@ -27,15 +27,13 @@ import Foundation
  # Forced Ordering Option
  */
 
+let upper = "STRING".lowercased()
+let lower = "string"
 
+upper == lower
 
+upper.compare(lower, options: [.caseInsensitive]) == .orderedSame
 
-
-
-
-
-
-
-
+upper.compare(lower, options: [.caseInsensitive, .forcedOrdering]) == .orderedSame
 
 //: [Next](@next)

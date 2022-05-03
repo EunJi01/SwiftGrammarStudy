@@ -27,16 +27,52 @@ import Foundation
  # Removing Substrings
  */
 
+var str = "Hello, Awesome Swift!!!"
+
+let lastCharIndex = str.index(before: str.endIndex)
+
+var removed = str.remove(at: lastCharIndex)
+
+removed
+str
+
+
+removed = str.removeFirst()
+removed
+str
+
+
+str.removeFirst(2)
+str
+
+str.removeLast()
+str
+
+str.removeLast(2)
+str
+
+
+if let range = str.range(of: "Awesome") {
+    str.removeSubrange(range)
+    str
+}
+
+
+str.removeAll()
+str
+
+str.removeAll(keepingCapacity: true)
 
 
 
 
+str = "Hello, Awesome Swift!!!"
 
+var substr = str.dropLast()
 
+substr = str.dropLast(3)
 
-
-
-
-
-
-
+substr = str.drop(while: { (ch) -> Bool in
+    return ch != ","
+})
+substr
