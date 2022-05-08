@@ -30,14 +30,19 @@ import UIKit
  ![kvptype](kvp-type.png)
   */
 
-
-
-
-
-
+let words: KeyValuePairs = ["A": "Apple", "B": "Banana", "C": "City"]
 
 /*:
   ## KeyValuePair Basics
 */
 
+words.count
+words.isEmpty
 
+words[0]
+words[0].key
+words[0].value
+
+for elem in words {
+    print(elem)
+}

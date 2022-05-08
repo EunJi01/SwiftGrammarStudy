@@ -28,22 +28,24 @@ import UIKit
  ![for-in](for-in.png)
  */
 
+print("Arrat", "=============")
+let arr = [1, 2, 3]
+for num in arr {
+    print(num)
+}
 
 
+print("Set", "==============")
+let set: Set = [1, 2, 3]
+for num in set {
+    print(num)
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+print("Dictionary", "==============")
+let dict = ["A": 1, "B": 2, "C": 3]
+for (Key, Value) in dict {
+    print(Key, Value)
+}
 
 //: [Next](@next)
