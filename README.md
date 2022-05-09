@@ -14,9 +14,9 @@ Kxcoding Swift 문법 공부 : Mastering Swift
 | **9회** | Closures | Complete |  |  | **2022.04.30** |
 | **10회** | Tuples | Complete |  |  | **2022.05.01** |
 | **11회** | Strings And Characters | Complete |  |  | **2022.05.02** |
-| **12회** | Collections | Complete |  |  | **2022.05.04** |
-| **13회** | Enumerations | Complete |  |  | **2022.05.0** |
-| **14회** | Structures And Classes | Complete |  |  | **2022.05.0** |
+| **12회** | Collections | Complete |  |  | **2022.05.06** |
+| **13회** | Enumerations | Complete |  |  | **2022.05.09** |
+| **14회** | Structures And Classes | Complete |  |  | **2022.05.10** |
 | **15회** | Properties | Complete |  |  | **2022.05.0** |
 | **16회** | Methods And Subscripts | Complete |  |  | **2022.05.0** |
 | **17회** | DynamicAccess | Complete |  |  | **2022.05.0** |
