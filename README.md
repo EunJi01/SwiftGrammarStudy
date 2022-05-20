@@ -17,16 +17,15 @@ Kxcoding Swift 문법 공부 : Mastering Swift
 | **12회** | Collections | Complete |  |  | **2022.05.06** |
 | **13회** | Enumerations | Complete |  |  | **2022.05.09** |
 | **14회** | Structures And Classes | Complete |  |  | **2022.05.10** |
-| **15회** | Properties | Complete |  |  | **2022.05.0** |
-| **16회** | Methods And Subscripts | Complete |  |  | **2022.05.0** |
-| **17회** | DynamicAccess | Complete |  |  | **2022.05.0** |
-| **18회** | Inheritance | Complete |  |  | **2022.05.0** |
-| **19회** | Initialization | Complete |  |  | **2022.05.1** |
-| **20회** | Extensions | Complete |  |  | **2022.05.1** |
-| **21회** | Protocols | Complete |  |  | **2022.05.1** |
-| **22회** | Memory | Complete |  |  | **2022.05.1** |
-| **23회** | Generics | Complete |  |  | **2022.05.1** |
-| **24회** | Error Handling | Complete |  |  | **2022.05.1** |
-| **25회** | Advanced | Complete |  |  | **2022.05.1** |
-| **26회** | SwiftConcurrency | Complete |  |  | **2022.05.1** |
+| **15회** | Properties | Complete |  |  | **2022.05.11** |
+| **16회** | Methods And Subscripts | Complete |  |  | **2022.05.12** |
+| **17회** | Inheritance | Complete |  |  | **2022.05.13** |
+| **18회** | Initialization | Complete |  |  | **2022.05.14** |
+| **19회** | Extensions | Complete |  |  | **2022.05.15** |
+| **20회** | Protocols | Complete |  |  | **2022.05.16** |
+| **21회** | Memory | Complete |  |  | **2022.05.17** |
+| **22회** | Generics | Complete |  |  | **2022.05.18** |
+| **23회** | Error Handling | Complete |  |  | **2022.05.19** |
+| **24회** | Advanced | Complete |  |  | **2022.05.20** |
+| **25회** | SwiftConcurrency | Complete |  |  | **2022.05.21** |
 
